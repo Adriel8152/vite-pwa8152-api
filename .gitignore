@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+
+# NestJS
+dist/
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+logs/
+*.log
+
+# Build files
+build/
+out/
+
+# Testing
+coverage/
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
